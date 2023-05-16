@@ -13,6 +13,7 @@
 
 html,
 body {
+  height: 100vh;
 	overflow: clip;
 	flex-grow: 1;
 	background-color: #e0e0e0;
